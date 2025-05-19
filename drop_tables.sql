@@ -1,2 +1,6 @@
-drop table today_menu;
-drop table daily_reservations;
+drop table people;
+drop table students;
+drop table professors;
+drop table foods;
+drop table daily_menu;
+drop table today_reservations;
